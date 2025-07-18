@@ -1,5 +1,7 @@
 # Courses:
 
+**CMSC 21 – Fundamentals of Programming.** Introduction to computer programming using a procedural high-level language. Program design, testing and debugging.
+
 **CMSC 123 – Data Structures.** Abstract data types and implementation; lists, stacks, queues, trees, mappings, sets and graphs, searching and sorting techniques; dynamic storage management. 
 
 **CMSC 124 – Design and Implementation of Programming Languages.** Study of the fundamental concepts in the design and implementation of current high-level programming languages; syntax and translation; language definition structures; elementary and structured data types; abstraction mechanisms; sequence and data control; run time considerations. 
